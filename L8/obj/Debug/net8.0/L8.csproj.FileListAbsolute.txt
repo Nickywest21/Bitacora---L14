@@ -1,0 +1,14 @@
+/Users/nicollewest/Documents/L8/bin/Debug/net8.0/L8
+/Users/nicollewest/Documents/L8/bin/Debug/net8.0/L8.deps.json
+/Users/nicollewest/Documents/L8/bin/Debug/net8.0/L8.runtimeconfig.json
+/Users/nicollewest/Documents/L8/bin/Debug/net8.0/L8.dll
+/Users/nicollewest/Documents/L8/bin/Debug/net8.0/L8.pdb
+/Users/nicollewest/Documents/L8/obj/Debug/net8.0/L8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicollewest/Documents/L8/obj/Debug/net8.0/L8.AssemblyInfoInputs.cache
+/Users/nicollewest/Documents/L8/obj/Debug/net8.0/L8.AssemblyInfo.cs
+/Users/nicollewest/Documents/L8/obj/Debug/net8.0/L8.csproj.CoreCompileInputs.cache
+/Users/nicollewest/Documents/L8/obj/Debug/net8.0/L8.dll
+/Users/nicollewest/Documents/L8/obj/Debug/net8.0/refint/L8.dll
+/Users/nicollewest/Documents/L8/obj/Debug/net8.0/L8.pdb
+/Users/nicollewest/Documents/L8/obj/Debug/net8.0/L8.genruntimeconfig.cache
+/Users/nicollewest/Documents/L8/obj/Debug/net8.0/ref/L8.dll

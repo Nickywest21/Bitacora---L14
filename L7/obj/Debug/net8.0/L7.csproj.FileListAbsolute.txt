@@ -1,0 +1,14 @@
+/Users/nicollewest/Documents/L7/bin/Debug/net8.0/L7
+/Users/nicollewest/Documents/L7/bin/Debug/net8.0/L7.deps.json
+/Users/nicollewest/Documents/L7/bin/Debug/net8.0/L7.runtimeconfig.json
+/Users/nicollewest/Documents/L7/bin/Debug/net8.0/L7.dll
+/Users/nicollewest/Documents/L7/bin/Debug/net8.0/L7.pdb
+/Users/nicollewest/Documents/L7/obj/Debug/net8.0/L7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicollewest/Documents/L7/obj/Debug/net8.0/L7.AssemblyInfoInputs.cache
+/Users/nicollewest/Documents/L7/obj/Debug/net8.0/L7.AssemblyInfo.cs
+/Users/nicollewest/Documents/L7/obj/Debug/net8.0/L7.csproj.CoreCompileInputs.cache
+/Users/nicollewest/Documents/L7/obj/Debug/net8.0/L7.dll
+/Users/nicollewest/Documents/L7/obj/Debug/net8.0/refint/L7.dll
+/Users/nicollewest/Documents/L7/obj/Debug/net8.0/L7.pdb
+/Users/nicollewest/Documents/L7/obj/Debug/net8.0/L7.genruntimeconfig.cache
+/Users/nicollewest/Documents/L7/obj/Debug/net8.0/ref/L7.dll

@@ -1,0 +1,14 @@
+/Users/nicollewest/Documents/L6/obj/Debug/net8.0/L6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicollewest/Documents/L6/obj/Debug/net8.0/L6.AssemblyInfoInputs.cache
+/Users/nicollewest/Documents/L6/obj/Debug/net8.0/L6.AssemblyInfo.cs
+/Users/nicollewest/Documents/L6/obj/Debug/net8.0/L6.csproj.CoreCompileInputs.cache
+/Users/nicollewest/Documents/L6/bin/Debug/net8.0/L6
+/Users/nicollewest/Documents/L6/bin/Debug/net8.0/L6.deps.json
+/Users/nicollewest/Documents/L6/bin/Debug/net8.0/L6.runtimeconfig.json
+/Users/nicollewest/Documents/L6/bin/Debug/net8.0/L6.dll
+/Users/nicollewest/Documents/L6/bin/Debug/net8.0/L6.pdb
+/Users/nicollewest/Documents/L6/obj/Debug/net8.0/L6.dll
+/Users/nicollewest/Documents/L6/obj/Debug/net8.0/refint/L6.dll
+/Users/nicollewest/Documents/L6/obj/Debug/net8.0/L6.pdb
+/Users/nicollewest/Documents/L6/obj/Debug/net8.0/L6.genruntimeconfig.cache
+/Users/nicollewest/Documents/L6/obj/Debug/net8.0/ref/L6.dll

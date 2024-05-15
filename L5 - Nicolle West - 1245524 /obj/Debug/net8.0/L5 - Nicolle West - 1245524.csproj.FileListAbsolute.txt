@@ -1,0 +1,14 @@
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /obj/Debug/net8.0/L5 - Nicolle West - 1245524.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /obj/Debug/net8.0/L5 - Nicolle West - 1245524.AssemblyInfoInputs.cache
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /obj/Debug/net8.0/L5 - Nicolle West - 1245524.AssemblyInfo.cs
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /obj/Debug/net8.0/L5 - Nicolle West - 1245524.csproj.CoreCompileInputs.cache
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /bin/Debug/net8.0/L5 - Nicolle West - 1245524
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /bin/Debug/net8.0/L5 - Nicolle West - 1245524.deps.json
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /bin/Debug/net8.0/L5 - Nicolle West - 1245524.runtimeconfig.json
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /bin/Debug/net8.0/L5 - Nicolle West - 1245524.dll
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /bin/Debug/net8.0/L5 - Nicolle West - 1245524.pdb
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /obj/Debug/net8.0/L5 - Nicolle West - 1245524.dll
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /obj/Debug/net8.0/refint/L5 - Nicolle West - 1245524.dll
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /obj/Debug/net8.0/L5 - Nicolle West - 1245524.pdb
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /obj/Debug/net8.0/L5 - Nicolle West - 1245524.genruntimeconfig.cache
+/Users/nicollewest/Documents/L5 - Nicolle West - 1245524 /obj/Debug/net8.0/ref/L5 - Nicolle West - 1245524.dll
